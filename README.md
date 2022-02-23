@@ -1,1 +1,1 @@
-# Ds_Algo_In_Python
+## This repository contains solutions to the differnt data structures and algorithms problems in python
